@@ -1,0 +1,5 @@
+__pycache__/
+*.pyc
+.env
+data/*.csv
+!data/11_2.csv
